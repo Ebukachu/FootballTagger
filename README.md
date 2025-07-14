@@ -86,7 +86,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please contact me [here](mailto:daryl.narh@gmail.com).
+For any inquiries or support, feel free to contact me through my [email](mailto:daryl.narh@gmail.com).
 
 ---
 
