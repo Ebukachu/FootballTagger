@@ -9,26 +9,17 @@ Football Events Tagger is a Python-based application that allows users to visual
 - **Configurable Teams and Actions**: Edit team names, player names, and actions via a configuration file.
 - **Real-Time Coordinate Saving**: Save tagged events to a CSV file with normalized coordinates.
 - **Config Editor**: Easily edit the configuration file for team names, player names, and actions.
-- **Utility Buttons**: Open CSV file and folder, and remove the last tagged event with a click of a button.
 
 ## Installation
 
-### Pre-built Version
-
-You can download the pre-built version of Football Events Tagger from the following links:
-
-- [Download ZIP File](#) (Placeholder for actual link)
-- [Download MSI Installer](#) (Placeholder for actual link)
-
-### From Source
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/football-events-tagger.git
+   git clone https://github.com/MrBubune/Football-Event-Tagger.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd football-events-tagger
+   cd Football-Event-Tagger
    ```
 3. Install the required dependencies:
    ```sh
@@ -78,14 +69,10 @@ To open the config editor, click the "Edit Config" button in the application.
 - **Analysts**: Record and review key events to improve team strategies.
 - **Enthusiasts**: Tag and share notable events from favorite matches.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png) *(Placeholder for actual screenshot)*
-![Screenshot 2](screenshots/screenshot2.png) *(Placeholder for actual screenshot)*
 
 ## Contributing
 
-We welcome contributions from the community. If you have any suggestions or improvements, please create an issue or submit a pull request.
+I'd love contributions from the community. If you have any suggestions or improvements, please create an issue or submit a pull request.
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
@@ -99,7 +86,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact me [here](mailto:daryl.narh@gmail.com).
 
 ---
 
