@@ -87,7 +87,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or support, feel free to contact me through my [email](mailto:daryl.narh@gmail.com).
-
----
-
-Thank you for using Football Events Tagger! We hope this tool helps you in analyzing and improving your football strategies.
