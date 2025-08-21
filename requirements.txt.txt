@@ -1,0 +1,4 @@
+tkinter
+mplsoccer
+matplotlib
+pandas
